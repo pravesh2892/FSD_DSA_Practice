@@ -1,4 +1,4 @@
-package Interview_questions;
+package important_questions;
 
 public class RainWaterTrapping {
     public static void main(String[] args) {

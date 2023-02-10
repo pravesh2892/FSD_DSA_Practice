@@ -1,6 +1,6 @@
 package important_questions;
 import  java.util.*;
-public class TripletsWithZeroSum {
+public class TripletsWithZeroSumOf {
     public static void main(String[] args) {
         int[]arr = {-3,1,4,-5,-4,2,3};
         int n = arr.length;

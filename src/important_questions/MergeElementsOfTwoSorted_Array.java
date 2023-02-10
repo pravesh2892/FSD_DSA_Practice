@@ -1,6 +1,6 @@
 package important_questions;
 import java.util.*;
-public class MergeElementsOfTwoSortedArray {
+public class MergeElementsOfTwoSorted_Array {
     public static void main(String[] args) {
         int[]arr1 = { 1, 5, 9, 10, 15, 20 };
         int[]arr2 = { 2, 3, 8, 13 };

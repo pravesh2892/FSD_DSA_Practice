@@ -28,21 +28,6 @@ static int getNthFromLast(Node head, int n)
         }
         }
         return curr.data;
-        //Node dammyNode = new Node(0);
-        //dammyNode.next = head;
-
-        //Node fastpointer = dammyNode;
-        //Node slowpointer = dammyNode;
-
-        //while(n != -1){
-        //   fastpointer = fastpointer.next;
-        //   n--;
-        //}
-        //while(fastpointer !=null){
-        //    fastpointer = fastpointer.next;
-        //    slowpointer = slowpointer.next;
-        //}
-        //int ans = (int)slowpointer.next;
-        // return ans;
+      
 
         }

@@ -10,6 +10,7 @@ public class Generate_Binary_Numbers {
         Queue<String> queue = new ArrayDeque<>();
         queue.add("1");
         int i=1;
+
         while(i++ <=n){
             queue.add(queue.peek() +'0');
             queue.add(queue.peek() +'1');
